@@ -1,0 +1,5 @@
+Q1: What is the function of the command "git remote"?
+Answer: "git remote" tells git that you what to send a commit to a repository other than your local machine.
+For example, in creating my repository on GitHub I typed the following into my command line: 
+git remote add origin https://github.com/Gianluca-Pedrani/Sp-21-Ulab-Repo.git
+This tells git to add origin to the http address, thus creating my repository! 
